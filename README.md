@@ -107,3 +107,16 @@ ve kamu malıdır.
 ## Katkida Bulunanlar
 
 Bu proje katkıda bulunan herkes sayesinde oluşturuldu. [[Katkıda bulun](CONTRIBUTING.md)].
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/user431-dvp"><img src="https://avatars1.githubusercontent.com/u/64474657?s=460&v=4" width="100px;" alt=""/><br /><sub><b>user431-dvp</b></sub></a><br /><a href="https://github.com/eda430/WinFormKOS/commits?author=user431-dvp" title="Documentation">📖</a> <a href="https://github.com/eda430/WinFormKOS/pulls?q=is%3Apr+reviewed-by%3Auser431-dvp" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/eda430"><img src="https://avatars1.githubusercontent.com/u/50071323?s=460&u=b84b906f0989f8a23eb9e9cae221a60e92139342&v=4" width="100px;" alt=""/><br /><sub><b>eda430</b></sub></a><br /><a href="https://github.com/eda430/WinFormKOS/commits?author=eda430" title="Documentation">📖</a> <a href="https://github.com/eda430/WinFormKOS/pulls?q=is%3Apr+reviewed-by%3eda430" title="Reviewed Pull Requests">👀</a></td>
+  </tr>
+</table>
