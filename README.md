@@ -99,7 +99,12 @@ calistirilabilir.
 Tüm varlıklar ve kodlar, aksi belirtilmedikçe [GPLv3 LİSANSI] (LİSANS) altında
 ve kamu malıdır.
 
-## Contributors
+## Yapilacaklar Listesi:book:
+- [X] Ilk commiti gonder
+- [X] Telos ongorusune uygun planlar ve gorev dagilimi
+- [] Pre-release'in kod testi
+
+## Katkida Bulunanlar
 
 Bu proje katkıda bulunan herkes sayesinde oluşturuldu. [[Katkıda bulun](CONTRIBUTING.md)].
 <a href="https://github.com/eda430/WinFormKOS/graphs/contributors"><img src="https://opencollective.com/shields/contributors.svg?width=890" /></a>
