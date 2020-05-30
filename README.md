@@ -119,3 +119,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/eda430"><img src="https://avatars1.githubusercontent.com/u/50071323?s=460&u=b84b906f0989f8a23eb9e9cae221a60e92139342&v=4" width="100px;" alt=""/><br /><sub><b>eda430</b></sub></a><br /><a href="https://github.com/eda430/WinFormKOS/commits?author=eda430" title="Documentation">📖</a> <a href="https://github.com/eda430/WinFormKOS/pulls?q=is%3Apr+reviewed-by%3eda430" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
+
+## Diagrams
+![](images/activity.png?raw=true)
+![](images/uml.png?raw=true)
+![](images/use-case.png?raw=true)
+![](images/e_r.png?raw=true)
