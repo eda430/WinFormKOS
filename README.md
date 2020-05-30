@@ -121,7 +121,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 </table>
 
 ## Diagrams
-![](activity.png?raw=true)
-![](uml.png?raw=true)
-![](use-case.png?raw=true)
-![](e_r.png?raw=true)
+![](images/activity.png?raw=true)
+![](images/uml.png?raw=true)
+![](images/use-case.png?raw=true)
+![](images/e_r.png?raw=true)
